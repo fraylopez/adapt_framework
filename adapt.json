@@ -3,7 +3,7 @@
         "adapt-contrib-vanilla": "*",
         "adapt-contrib-text": "*",
         "adapt-contrib-narrative": "*",
-        "git+https://github.com/fraylopez/adapt-contrib-media": "*",
+        "adapt-contrib-media": "*",
         "adapt-contrib-hotgraphic": "*",
         "adapt-contrib-blank": "*",
         "adapt-contrib-accordion": "*",
@@ -22,6 +22,7 @@
         "adapt-contrib-slider": "*",
         "adapt-contrib-spoor": "*",
         "adapt-contrib-bookmarking": "*",
-        "adapt-contrib-languagePicker": "*"
+        "adapt-contrib-languagePicker": "*",
+		"adapt-contrib-media": "fraylopez/adapt-media-brightcove#^2.0.6"
     }
 }
